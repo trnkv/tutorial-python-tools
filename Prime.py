@@ -1,5 +1,5 @@
 def isPrime(number):
-    return ~-2 ** n%n < 2
+    return ~-2 ** number%number < 2
 
 
 def test_small_2():
