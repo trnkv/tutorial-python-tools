@@ -1,5 +1,3 @@
-from sympy import *
-
 def isPrime(number):
     return ~-2 ** n%n < 2
 
