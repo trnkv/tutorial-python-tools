@@ -1,7 +1,7 @@
+from sympy import *
+
 def isPrime(number):
-    if number%2 == 0:
-        return False
-    return True
+    return sympy.isprime(number)
 
 
 def test_small_2():
