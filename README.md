@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/IgorPelevanyuk/tutorial-python-tools.svg?branch=master)](https://travis-ci.org/IgorPelevanyuk/tutorial-python-tools)
+
 Test project for basic python tools
 ===================================
 
