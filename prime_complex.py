@@ -1,4 +1,4 @@
-from prime import isPrime
+from Prime import isPrime
 import time
 
 def test_small_0():
